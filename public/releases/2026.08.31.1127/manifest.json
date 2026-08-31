@@ -1,0 +1,19 @@
+{
+    "schemaVersion": 1,
+    "modId": "5415fccb-af4f-48f9-a3b7-348b855e6d39",
+    "companyName": "NROLOVE",
+    "releaseId": "2026.08.31.1127",
+    "version": "2026.08.31.1127",
+    "createdAt": "2026-08-31T11:44:10.5092206+00:00",
+    "totalSize": 28896960,
+    "files": [
+        {
+            "name": "res_assets___webgl_bootstrap_b01a911048b454846b623f3b2cd88e30_single_86d760df1783e868b8d9e347ec060bba.cuongdev",
+            "size": 28896960,
+            "sha256": "565bdfc4895ee4d79cf8a890667b2bc957c86c62470a430248e136a7673c43e6",
+            "unityCrc": 0,
+            "scope": "bootstrap",
+            "downloadUrl": "https://c1u2o3n4g-alt.github.io/nrolove/bundles/2026.08.31.1127/res_assets___webgl_bootstrap_b01a911048b454846b623f3b2cd88e30_single_86d760df1783e868b8d9e347ec060bba.cuongdev"
+        }
+    ]
+}
