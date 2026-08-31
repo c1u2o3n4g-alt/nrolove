@@ -9,9 +9,9 @@
     "graceUntil":  "2026-10-01T09:48:06.2900000+00:00",
     "activeRelease":  "2026.08.30.1622",
     "manifestUrl":  "https://c1u2o3n4g-alt.github.io/nrolove/releases/2026.08.30.1622/manifest.json",
-    "manifestSha256":  "e916b4f6122b9c5741069d0d22f7d3a0ecaf0f67bd71462c891638beb7cbb702",
+    "manifestSha256":  "3852ab0da8d130506a6db4e8c9ad17a36c295eac393741f44b464c02acce9c83",
     "minimumClientVersion":  "",
     "forceReload":  false,
-    "revision":  1788169937980,
-    "updatedAt":  "2026-08-31T09:52:17.9860024+00:00"
+    "revision":  1788170156011,
+    "updatedAt":  "2026-08-31T09:55:56.0145897+00:00"
 }
