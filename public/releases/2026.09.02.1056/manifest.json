@@ -1,0 +1,203 @@
+{
+    "schemaVersion": 1,
+    "modId": "5415fccb-af4f-48f9-a3b7-348b855e6d39",
+    "companyName": "NROLOVE",
+    "releaseId": "2026.09.02.1056",
+    "version": "2026.09.02.1056",
+    "createdAt": "2026-09-02T11:12:23.7585411+00:00",
+    "totalSize": 74339066,
+    "files": [
+        {
+            "name": "52fce4dfdec81911779468540a376f4b_monoscripts_154c0057584df9e963a1ece5f83ef2ad.cuongdev",
+            "size": 1825,
+            "sha256": "8448f8ba9ade167e4d8501045e11ce188a1c025291efa4f5f68a9ae6a6265414",
+            "unityCrc": 0,
+            "scope": "bootstrap",
+            "downloadUrl": "https://c1u2o3n4g-alt.github.io/nrolove/bundles/2026.09.02.1056/52fce4dfdec81911779468540a376f4b_monoscripts_154c0057584df9e963a1ece5f83ef2ad.cuongdev"
+        },
+        {
+            "name": "res_assets___webgl_bootstrap_b01a911048b454846b623f3b2cd88e30_0000_b2b28e6f1716cbd3091e26448e0dfad9.cuongdev",
+            "size": 2944457,
+            "sha256": "eb766aec9628efca4ccedf273edd83345bdf9969920b781c8a1ef1ca166b3e52",
+            "unityCrc": 0,
+            "scope": "bootstrap",
+            "downloadUrl": "https://c1u2o3n4g-alt.github.io/nrolove/bundles/2026.09.02.1056/res_assets___webgl_bootstrap_b01a911048b454846b623f3b2cd88e30_0000_b2b28e6f1716cbd3091e26448e0dfad9.cuongdev"
+        },
+        {
+            "name": "res_assets___webgl_bootstrap_b01a911048b454846b623f3b2cd88e30_0001_0649ab81b6b8b722ddf5d54c18eabacd.cuongdev",
+            "size": 6464044,
+            "sha256": "19b0bf32a0f268781aca1871332282e734ccb8fdad9ab952f4074c599fb6b96a",
+            "unityCrc": 0,
+            "scope": "bootstrap",
+            "downloadUrl": "https://c1u2o3n4g-alt.github.io/nrolove/bundles/2026.09.02.1056/res_assets___webgl_bootstrap_b01a911048b454846b623f3b2cd88e30_0001_0649ab81b6b8b722ddf5d54c18eabacd.cuongdev"
+        },
+        {
+            "name": "res_assets___webgl_bootstrap_b01a911048b454846b623f3b2cd88e30_0002_80fa664addaaba7402ef1c7e90ef4708.cuongdev",
+            "size": 8103239,
+            "sha256": "5bc970f3be093a2fcdcb089afb8ff4f2aae8aee81142b571838223d4402f9edd",
+            "unityCrc": 0,
+            "scope": "bootstrap",
+            "downloadUrl": "https://c1u2o3n4g-alt.github.io/nrolove/bundles/2026.09.02.1056/res_assets___webgl_bootstrap_b01a911048b454846b623f3b2cd88e30_0002_80fa664addaaba7402ef1c7e90ef4708.cuongdev"
+        },
+        {
+            "name": "res_assets___webgl_bootstrap_b01a911048b454846b623f3b2cd88e30_0003_d552d5002ba87b4d0ddbd17e46fda8e6.cuongdev",
+            "size": 9587934,
+            "sha256": "0db1f109f488e08a267fb6f6850a19e64973bc1ef6560a46df8b52e8a0507adb",
+            "unityCrc": 0,
+            "scope": "bootstrap",
+            "downloadUrl": "https://c1u2o3n4g-alt.github.io/nrolove/bundles/2026.09.02.1056/res_assets___webgl_bootstrap_b01a911048b454846b623f3b2cd88e30_0003_d552d5002ba87b4d0ddbd17e46fda8e6.cuongdev"
+        },
+        {
+            "name": "res_assets___webgl_bootstrap_b01a911048b454846b623f3b2cd88e30_0004_38c5dcfd056ad4fe7b50299acaa76e7c.cuongdev",
+            "size": 1801779,
+            "sha256": "49a403a5c7b455c110f17e9c29ccdf0ae352426adfa9b0a6736b5fcd4b24b8dd",
+            "unityCrc": 0,
+            "scope": "bootstrap",
+            "downloadUrl": "https://c1u2o3n4g-alt.github.io/nrolove/bundles/2026.09.02.1056/res_assets___webgl_bootstrap_b01a911048b454846b623f3b2cd88e30_0004_38c5dcfd056ad4fe7b50299acaa76e7c.cuongdev"
+        },
+        {
+            "name": "res_assets___webgl_spine_avatar_b004_000_2c0795bd94f01822365964e159a5f175.cuongdev",
+            "size": 774160,
+            "sha256": "03a0d98250b9ed4f75cfdfa76fd55639c1547d62fc85dca64e2cfa714e7fdccf",
+            "unityCrc": 0,
+            "scope": "spine",
+            "downloadUrl": "https://c1u2o3n4g-alt.github.io/nrolove/bundles/2026.09.02.1056/res_assets___webgl_spine_avatar_b004_000_2c0795bd94f01822365964e159a5f175.cuongdev"
+        },
+        {
+            "name": "res_assets___webgl_spine_avatar_b004_001_324bf6c4eca1ecd649cd0baaa65a7603.cuongdev",
+            "size": 701934,
+            "sha256": "ad0210dd71528c0c0bd82d4dd7fab235e0a215d50ab09334407d9a56ad76794c",
+            "unityCrc": 0,
+            "scope": "spine",
+            "downloadUrl": "https://c1u2o3n4g-alt.github.io/nrolove/bundles/2026.09.02.1056/res_assets___webgl_spine_avatar_b004_001_324bf6c4eca1ecd649cd0baaa65a7603.cuongdev"
+        },
+        {
+            "name": "res_assets___webgl_spine_avatar_b004_002_dc13377c0ff04f7769c4ef24c57fde79.cuongdev",
+            "size": 717047,
+            "sha256": "8b87012edaeac08da6043479da0710ff684f9367ade9350c103321cac7690ca1",
+            "unityCrc": 0,
+            "scope": "spine",
+            "downloadUrl": "https://c1u2o3n4g-alt.github.io/nrolove/bundles/2026.09.02.1056/res_assets___webgl_spine_avatar_b004_002_dc13377c0ff04f7769c4ef24c57fde79.cuongdev"
+        },
+        {
+            "name": "res_assets___webgl_spine_avatar_b004_003_f24f6ade4812edd1ede9184cbc2a3a56.cuongdev",
+            "size": 740863,
+            "sha256": "c2a13a3efe9332198712724ec4716dcac7b5e39d18a9a454a398c786356f3b52",
+            "unityCrc": 0,
+            "scope": "spine",
+            "downloadUrl": "https://c1u2o3n4g-alt.github.io/nrolove/bundles/2026.09.02.1056/res_assets___webgl_spine_avatar_b004_003_f24f6ade4812edd1ede9184cbc2a3a56.cuongdev"
+        },
+        {
+            "name": "res_assets___webgl_spine_icon_item_b002_000_a54166f13f008a480266221a3f19dc0e.cuongdev",
+            "size": 758265,
+            "sha256": "619efcf1c43dd99845759acc96ed31485d633f329699be21a02e0a2bbaa6a174",
+            "unityCrc": 0,
+            "scope": "spine",
+            "downloadUrl": "https://c1u2o3n4g-alt.github.io/nrolove/bundles/2026.09.02.1056/res_assets___webgl_spine_icon_item_b002_000_a54166f13f008a480266221a3f19dc0e.cuongdev"
+        },
+        {
+            "name": "res_assets___webgl_spine_icon_item_b002_001_0bef889471f2b72aff01d342231f7376.cuongdev",
+            "size": 698710,
+            "sha256": "5b50e8e985e62c27c40c884a3f7ed78823a180b54551fc591811586ccf3503d1",
+            "unityCrc": 0,
+            "scope": "spine",
+            "downloadUrl": "https://c1u2o3n4g-alt.github.io/nrolove/bundles/2026.09.02.1056/res_assets___webgl_spine_icon_item_b002_001_0bef889471f2b72aff01d342231f7376.cuongdev"
+        },
+        {
+            "name": "res_assets___webgl_spine_player_b010_000_7cadf395c571cf8e0b6631de84bcc9d9.cuongdev",
+            "size": 3033671,
+            "sha256": "8e4074590eedf96cf198a753a5b6537064c1b496940c7e0094f981dbcf4ccd37",
+            "unityCrc": 0,
+            "scope": "spine",
+            "downloadUrl": "https://c1u2o3n4g-alt.github.io/nrolove/bundles/2026.09.02.1056/res_assets___webgl_spine_player_b010_000_7cadf395c571cf8e0b6631de84bcc9d9.cuongdev"
+        },
+        {
+            "name": "res_assets___webgl_spine_player_b010_001_3f073e7f18b6763a605ea682ebbdbfba.cuongdev",
+            "size": 2240775,
+            "sha256": "7905732af445d239530e2cc6925f401128090dc24a129fcc27a5de5131ca7538",
+            "unityCrc": 0,
+            "scope": "spine",
+            "downloadUrl": "https://c1u2o3n4g-alt.github.io/nrolove/bundles/2026.09.02.1056/res_assets___webgl_spine_player_b010_001_3f073e7f18b6763a605ea682ebbdbfba.cuongdev"
+        },
+        {
+            "name": "res_assets___webgl_spine_player_b010_002_f55c0abf7b1fcd68993b7b1e81fec453.cuongdev",
+            "size": 1942506,
+            "sha256": "080a3ff7b3dbdddeaddd47252dce630b8643b3f466fad7a33b2d58bb4037044e",
+            "unityCrc": 0,
+            "scope": "spine",
+            "downloadUrl": "https://c1u2o3n4g-alt.github.io/nrolove/bundles/2026.09.02.1056/res_assets___webgl_spine_player_b010_002_f55c0abf7b1fcd68993b7b1e81fec453.cuongdev"
+        },
+        {
+            "name": "res_assets___webgl_spine_player_b010_003_491233bb12df732e7ff2803bcafefedd.cuongdev",
+            "size": 2098116,
+            "sha256": "1cf7dbb190e52a29e3c4a7ec4e9f6a21dc5728654635b1152e95da4de573ae51",
+            "unityCrc": 0,
+            "scope": "spine",
+            "downloadUrl": "https://c1u2o3n4g-alt.github.io/nrolove/bundles/2026.09.02.1056/res_assets___webgl_spine_player_b010_003_491233bb12df732e7ff2803bcafefedd.cuongdev"
+        },
+        {
+            "name": "res_assets___webgl_spine_player_b010_004_0f0fdfcd6d3a2c69aa536696cb9a3049.cuongdev",
+            "size": 3137218,
+            "sha256": "eb814564fc33bf1cd940a1a8c75565af98833ae98e609896937bb7df72c0d730",
+            "unityCrc": 0,
+            "scope": "spine",
+            "downloadUrl": "https://c1u2o3n4g-alt.github.io/nrolove/bundles/2026.09.02.1056/res_assets___webgl_spine_player_b010_004_0f0fdfcd6d3a2c69aa536696cb9a3049.cuongdev"
+        },
+        {
+            "name": "res_assets___webgl_spine_player_b010_005_14df0aaa6cafa19c5a6090cb1ee80b9d.cuongdev",
+            "size": 2529045,
+            "sha256": "615aafa4e23e247a6fdfdcfb3991d56f01f405d8cfd8404db64f90241369971c",
+            "unityCrc": 0,
+            "scope": "spine",
+            "downloadUrl": "https://c1u2o3n4g-alt.github.io/nrolove/bundles/2026.09.02.1056/res_assets___webgl_spine_player_b010_005_14df0aaa6cafa19c5a6090cb1ee80b9d.cuongdev"
+        },
+        {
+            "name": "res_assets___webgl_spine_player_b010_006_36a598e44cfb5a93ea1c52b7f310352b.cuongdev",
+            "size": 2668749,
+            "sha256": "a30b66ca11caafa46d46d70218a7ff1209f352c23df8edb135169f4b2d123f3f",
+            "unityCrc": 0,
+            "scope": "spine",
+            "downloadUrl": "https://c1u2o3n4g-alt.github.io/nrolove/bundles/2026.09.02.1056/res_assets___webgl_spine_player_b010_006_36a598e44cfb5a93ea1c52b7f310352b.cuongdev"
+        },
+        {
+            "name": "res_assets___webgl_spine_player_b010_007_e0e1eda1964b00842b3fa0463b87d9bb.cuongdev",
+            "size": 6337241,
+            "sha256": "0ae87d97e77a28811da9988b1c4a4db6f75622f716bfe0cacda1060f7d7c73a0",
+            "unityCrc": 0,
+            "scope": "spine",
+            "downloadUrl": "https://c1u2o3n4g-alt.github.io/nrolove/bundles/2026.09.02.1056/res_assets___webgl_spine_player_b010_007_e0e1eda1964b00842b3fa0463b87d9bb.cuongdev"
+        },
+        {
+            "name": "res_assets___webgl_spine_player_b010_008_7b8efbff8d5f0c57a0c461a82f63029b.cuongdev",
+            "size": 11921847,
+            "sha256": "1a2279f991d1a8533355708b939bce602d78abd08ebc9e2effb4d3b6ef3707c1",
+            "unityCrc": 0,
+            "scope": "spine",
+            "downloadUrl": "https://c1u2o3n4g-alt.github.io/nrolove/bundles/2026.09.02.1056/res_assets___webgl_spine_player_b010_008_7b8efbff8d5f0c57a0c461a82f63029b.cuongdev"
+        },
+        {
+            "name": "res_assets___webgl_spine_player_b010_009_d6a1115358ba3336e156bf93ab7e1786.cuongdev",
+            "size": 2426959,
+            "sha256": "86eb4e9c58ffd0e16435e92b850f3d3fc2c6f2462389e6153b57e93d57bcb433",
+            "unityCrc": 0,
+            "scope": "spine",
+            "downloadUrl": "https://c1u2o3n4g-alt.github.io/nrolove/bundles/2026.09.02.1056/res_assets___webgl_spine_player_b010_009_d6a1115358ba3336e156bf93ab7e1786.cuongdev"
+        },
+        {
+            "name": "res_assets___webgl_spine_spinelogin_b002_000_090c8cdaff41a7948e95b0568f70bc4e.cuongdev",
+            "size": 2655763,
+            "sha256": "8fe024ef226f118138aac5e3cd2b8e2545ef9420ae58365ddb012b34e770c462",
+            "unityCrc": 0,
+            "scope": "spine",
+            "downloadUrl": "https://c1u2o3n4g-alt.github.io/nrolove/bundles/2026.09.02.1056/res_assets___webgl_spine_spinelogin_b002_000_090c8cdaff41a7948e95b0568f70bc4e.cuongdev"
+        },
+        {
+            "name": "res_assets___webgl_spine_spinelogin_b002_001_d642905bf842537af2a312361f253e22.cuongdev",
+            "size": 52919,
+            "sha256": "50903be715783dc801ea9e38cddd26060e3c783c432d0df7e330d5703220d363",
+            "unityCrc": 0,
+            "scope": "spine",
+            "downloadUrl": "https://c1u2o3n4g-alt.github.io/nrolove/bundles/2026.09.02.1056/res_assets___webgl_spine_spinelogin_b002_001_d642905bf842537af2a312361f253e22.cuongdev"
+        }
+    ]
+}
