@@ -7,11 +7,11 @@
     "message": "",
     "expiresAt": "2026-09-30T09:48:06.2900000+00:00",
     "graceUntil": "2026-10-01T09:48:06.2900000+00:00",
-    "activeRelease": "2026.09.04.0351",
-    "manifestUrl": "https://c1u2o3n4g-alt.github.io/nrolove/releases/2026.09.04.0351/manifest.json",
-    "manifestSha256": "974621037e54acd196af9d9246f81b4a398e7d6d79e7f4b47782d02f3d1173d6",
+    "activeRelease": "2026.09.08.0929",
+    "manifestUrl": "https://c1u2o3n4g-alt.github.io/nrolove/releases/2026.09.08.0929/manifest.json",
+    "manifestSha256": "1743e64644d5dbd4a7d7b970d73b3e9fc65cac01d2440b8e078704e72e92c713",
     "minimumClientVersion": "",
     "forceReload": false,
-    "revision": 1788494789560,
-    "updatedAt": "2026-09-04T04:06:29.5600271+00:00"
+    "revision": 1788860459566,
+    "updatedAt": "2026-09-08T09:40:59.5669010+00:00"
 }
